@@ -1,0 +1,6 @@
+{
+  "name": "django-schedule",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "django and react-big-calendar integration for scheduling application"
+}
